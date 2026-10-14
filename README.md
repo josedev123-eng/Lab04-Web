@@ -3,7 +3,7 @@
 Ejercicios propuestos del Laboratorio 04: relaciones **@OneToOne** (Usuario–Perfil) y **@ManyToMany** (Estudiante–Curso)
 con arquitectura en capas (Controller, Service, Repository).
 
-Spring Boot 4.0.5 · Java 25 · Maven · MySQL · paquete `com.tecsup`
+Spring Boot 4.0.5 · Java 21+ · Maven · MySQL · paquete `com.tecsup`
 
 ## 1. Cómo ejecutarlo
 
